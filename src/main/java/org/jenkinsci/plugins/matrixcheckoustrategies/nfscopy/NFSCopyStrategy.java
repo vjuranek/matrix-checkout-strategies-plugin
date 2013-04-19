@@ -1,4 +1,4 @@
-package org.jenkinsci.plugins.matrix_checkou_strategies;
+package org.jenkinsci.plugins.matrixcheckoustrategies.nfscopy;
 
 import hudson.Extension;
 import hudson.FilePath;
